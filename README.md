@@ -1,7 +1,3 @@
-Hello at dotisdigital.eu GitHub page!
+Hello!
 
-Currently our repos are private, but later we will publish some open source mobile apps there.
-
-So get back soon!
-
-You can reach us by mail.
+DotisDigital is not a real company, just a nickname for my digital products releated stuffs.
